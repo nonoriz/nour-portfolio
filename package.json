@@ -13,11 +13,12 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
-    "react": "latest",
-    "react-dom": "latest",
     "framer-motion": "latest",
-    "lucide-react": "latest"
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vite": "^8.1.0"
+  }
 }
