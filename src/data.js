@@ -117,6 +117,22 @@ export const projects = [
     buttonLabel: 'View GitHub',
   },
   {
+    name: 'Wizard Script Compiler',
+    description:
+      'A wizard-themed educational compiler that translates a custom beginner-friendly scripting language into C++ while demonstrating the main compiler phases.',
+    stack: ['Python', 'Compiler Design', 'Tkinter', 'C++ Code Generation'],
+    highlights: [
+      'Scanner / Lexical Analysis',
+      'Recursive Descent Parser',
+      'Semantic Analyzer',
+      'Symbol Table & Type Checking',
+      'C++ Code Generation',
+      'Tkinter GUI Compiler',
+    ],
+    link: '#contact',
+    buttonLabel: 'Request Demo',
+  },
+  {
     name: 'Student Complaint Management Platform',
     description:
       'A full-stack platform for students and administrators to submit, track, and manage complaints.',
